@@ -1,6 +1,7 @@
 package com.szh.swordOffer.problem23;
 
-import com.ryan.offer.node.BTreeNode;
+
+import com.szh.swordOffer.BTreeNode;
 
 public class Test {
 	public static void main(String[] args) {

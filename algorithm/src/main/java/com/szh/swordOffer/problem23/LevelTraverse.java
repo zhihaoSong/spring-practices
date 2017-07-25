@@ -1,6 +1,8 @@
 package com.szh.swordOffer.problem23;
 
-import com.ryan.offer.node.BTreeNode;
+
+import com.szh.offer1.Day04;
+import com.szh.swordOffer.BTreeNode;
 
 import java.util.LinkedList;
 import java.util.Queue;
@@ -14,7 +16,7 @@ public class LevelTraverse {
             return;
         }
 
-        Queue<BTreeNode> queue = new LinkedList<>();
+        Queue<BTreeNode> queue = new LinkedList<BTreeNode>();
         queue.offer(root);
         while (!queue.isEmpty()) {
             BTreeNode node = queue.poll();

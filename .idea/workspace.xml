@@ -2,143 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df801e3d-8973-46e0-b680-871e776605c2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_6_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/algorithm.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/offer1/Day01.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/offer1/Day02.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/offer1/Day03.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/offer1/Day04.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/offer1/Day05.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/offer1/Day06.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/offer1/Day07.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/offer1/Day08.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/offer1/Day09.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/offer1/Day10.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/offer1/Day11.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/offer1/Day12.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/offer1/Day13.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/offer1/Day14.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/offer1/Day15.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/offer1/Day16.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/offer1/Day17.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/offer1/Day18.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/offer1/Day19.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/offer1/Day20.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/offer1/Day21.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/offer1/Day22.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/offer1/Day23.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/offer1/Day24.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/offer1/Day25.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/offer1/Day26.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/offer1/Day27.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/offer1/Day28.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/offer1/Day29.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/offer1/Day30.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/offer1/Day31.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/offer1/read.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/BTreeNode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/BiArrFind.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/ConstructBTree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/DeleteNode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/Fibonacci.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/FindKthToTail.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/ListNode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/MergeList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/MirrorOfTree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/MyQueue.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/MyStack.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/NumberOf1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/Power.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/PrintMatrix.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/PrintToMaxNDigits.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/Problem41/FindContinuousSequence.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/Problem41/FindNumbersWithSum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/Problem41/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/Problem42/LeftReverse.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/Problem42/ReverseWord.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/Problem42/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/Problem44/SortPoker.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/Problem44/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/Problem45/JosephLoop.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/Problem45/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/Problem46/Calculate.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/Problem46/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/Problem48/FinalClass.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/Problem48/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/Reorder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/ReplaceBlank.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/ReverseList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/ReversePrintNode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/RotateArray.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/Singleton.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/Tree1AndTree2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/blog.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem21/StackWithMin.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem21/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem22/IsPopOrder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem22/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem23/LevelTraverse.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem23/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem24/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem24/VerifySequenceOfBST.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem25/FindPath.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem25/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem26/ComplexListClone.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem26/ComplexListNode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem26/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem27/Convert.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem28/NQueens.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem28/PermutationOfString.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem28/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem29/MoreThanHalfNumber.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem29/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem30/GetLeastNumbersWithHeap.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem30/GetLeastNumbersWithPartition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem30/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem31/FindGreatestSum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem31/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem32/NumberOf1Between1AndN.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem32/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem33/PrintMinNumber.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem33/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem34/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem34/UglyNumberWay1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem34/UglyNumberWay2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem35/FirstNotRepeating.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem35/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem36/InversePairs.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem36/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem37/FirstCommonNode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem37/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem38/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem38/TimesOfDigitInSortedArray.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem39/BTreeUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem40/AppearOnce.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem40/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem47/Add.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem47/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem49/MyAtoI.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem49/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem50/LowestCommonParentNode.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/spring-practices.iml" afterPath="$PROJECT_DIR$/.idea/spring-practices.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MarkDownStudy.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem23/LevelTraverse.java" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem23/LevelTraverse.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem23/Test.java" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem23/Test.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem25/FindPath.java" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem25/FindPath.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem25/Test.java" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem25/Test.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem27/Convert.java" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem27/Convert.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem37/FirstCommonNode.java" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem37/FirstCommonNode.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem37/Test.java" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem37/Test.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem39/BTreeUtil.java" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem39/BTreeUtil.java" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/springMVC/target/" />
@@ -165,104 +38,12 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ReverseList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/ReverseList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MergeList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/MergeList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-              <folding>
-                <marker date="1500996332716" expanded="true" signature="30:108" ph="/**...*/" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Tree1AndTree2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/Tree1AndTree2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MirrorOfTree.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/MirrorOfTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PrintMatrix.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/PrintMatrix.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StackWithMin.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem21/StackWithMin.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IsPopOrder.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem22/IsPopOrder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
-              <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="VerifySequenceOfBST.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem24/VerifySequenceOfBST.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Day01.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/szh/offer1/Day01.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="read.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/szh/offer1/read.md">
+      <file leaf-file-name="MarkDownStudy.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MarkDownStudy.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="145">
-                <caret line="17" column="10" lean-forward="false" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+              <first_editor relative-caret-position="126">
+                <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -302,14 +83,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/demo/src/main/java/demo/thread/read.md" />
-        <option value="$PROJECT_DIR$/demo/src/main/java/python/syntax/use_sltos__.py" />
-        <option value="$PROJECT_DIR$/demo/src/main/java/solr/skip_list.py" />
-        <option value="$PROJECT_DIR$/demo/pom.xml" />
-        <option value="$PROJECT_DIR$/demo/src/main/java/zk/Slave.java" />
-        <option value="$PROJECT_DIR$/demo/src/main/java/zk/Master.java" />
-        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/blog.md" />
-        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/LinkNode.java" />
         <option value="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/BTreeNode.java" />
         <option value="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/Singleton.java" />
         <option value="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/BiArrFind.java" />
@@ -318,7 +91,6 @@
         <option value="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/ConstructBTree.java" />
         <option value="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/MyQueue.java" />
         <option value="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/MyStack.java" />
-        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem23/Test.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/algorithm/pom.xml" />
         <option value="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem8/Test.java" />
@@ -353,6 +125,15 @@
         <option value="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/PrintMatrix.java" />
         <option value="$PROJECT_DIR$/algorithm/src/main/java/com/szh/offer/Day01.java" />
         <option value="$PROJECT_DIR$/algorithm/src/main/java/com/szh/offer/read.md" />
+        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem23/Test.java" />
+        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem23/LevelTraverse.java" />
+        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem25/FindPath.java" />
+        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem25/Test.java" />
+        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem27/Convert.java" />
+        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem37/FirstCommonNode.java" />
+        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem37/Test.java" />
+        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem39/BTreeUtil.java" />
+        <option value="$PROJECT_DIR$/MarkDownStudy.md" />
       </list>
     </option>
   </component>
@@ -442,93 +223,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
               <option name="myItemId" value="spring-practices" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Maven: junit:junit:4.11" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="junit-4.11.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-practices" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Maven: junit:junit:4.11" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="junit-4.11.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="junit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-practices" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-practices" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-practices" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-practices" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-practices" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-practices" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -561,10 +256,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -645,6 +336,10 @@
               <option name="myItemId" value="szh" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="swordOffer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -676,7 +371,383 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="offer1" />
+              <option name="myItemId" value="swordOffer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="problem47" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-practices" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-practices" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="szh" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="swordOffer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Problem46" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-practices" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-practices" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="szh" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="swordOffer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="problem39" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-practices" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-practices" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="szh" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="swordOffer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="problem37" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-practices" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-practices" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="szh" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="swordOffer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="problem27" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-practices" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-practices" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="szh" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="swordOffer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="problem25" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-practices" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-practices" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="szh" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="swordOffer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="problem24" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-practices" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-practices" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="szh" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="swordOffer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="problem23" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-practices" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-practices" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="szh" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="swordOffer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="problem22" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-practices" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-practices" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="szh" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="swordOffer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="problem21" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-practices" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-practices" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="szh" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1346,7 +1417,7 @@
       <workItem from="1500807010840" duration="2096000" />
       <workItem from="1500809383519" duration="2508000" />
       <workItem from="1500812133135" duration="13124000" />
-      <workItem from="1500905503929" duration="9827000" />
+      <workItem from="1500905503929" duration="10512000" />
     </task>
     <servers />
   </component>
@@ -1383,11 +1454,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32811000" />
+    <option name="totallyTimeSpent" value="33496000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1301" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1412,7 +1483,7 @@
       <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32861635" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32704404" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23980816" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23980816" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32861635" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1439,72 +1510,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/demo/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/worksoft/jdk1.7.0_80/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1365">
-          <caret line="2178" column="18" lean-forward="false" selection-start-line="2178" selection-start-column="18" selection-end-line="2178" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/Singleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="39" lean-forward="false" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
-          <folding>
-            <element signature="e#310#311#0" expanded="false" />
-            <element signature="e#357#358#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/blog.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="235">
-            <caret line="1767" column="12" lean-forward="false" selection-start-line="1767" selection-start-column="12" selection-end-line="1767" selection-end-column="12" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/BiArrFind.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="5" lean-forward="false" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/ReversePrintNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="54" column="39" lean-forward="false" selection-start-line="54" selection-start-column="39" selection-end-line="54" selection-end-column="39" />
-          <folding>
-            <element signature="e#263#273#0" expanded="false" />
-            <element signature="e#369#379#0" expanded="false" />
-            <element signature="e#750#759#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/ReplaceBlank.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="522">
@@ -1584,22 +1589,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem34/UglyNumberWay2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem37/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem23/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1832,22 +1821,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem21/StackWithMin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem22/IsPopOrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem24/VerifySequenceOfBST.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -1867,8 +1840,106 @@
     <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/szh/offer1/read.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="145">
-            <caret line="17" column="10" lean-forward="false" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+          <first_editor relative-caret-position="109">
+            <caret line="15" column="35" lean-forward="false" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem23/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem23/LevelTraverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="18" column="8" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#364#375#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem21/StackWithMin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem22/IsPopOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem25/FindPath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="56" lean-forward="false" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem25/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="9" column="31" lean-forward="false" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem27/Convert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem37/FirstCommonNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem39/BTreeUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-126">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/szh/swordOffer/problem37/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MarkDownStudy.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="126">
+            <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
             <folding />
           </first_editor>
           <second_editor />

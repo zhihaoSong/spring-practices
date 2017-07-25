@@ -1,6 +1,7 @@
 package com.szh.swordOffer.problem37;
 
-import com.ryan.offer.node.ListNode;
+
+import com.szh.swordOffer.ListNode;
 
 /**
  * Problem37

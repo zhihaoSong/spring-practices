@@ -1,6 +1,7 @@
 package com.szh.swordOffer.problem39;
 
-import com.ryan.offer.node.BTreeNode;
+
+import com.szh.swordOffer.BTreeNode;
 
 /**
  * Created by ryan on 16/3/28.

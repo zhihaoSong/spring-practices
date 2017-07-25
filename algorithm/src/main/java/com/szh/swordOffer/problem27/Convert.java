@@ -1,6 +1,7 @@
 package com.szh.swordOffer.problem27;
 
-import com.ryan.offer.node.BTreeNode;
+
+import com.szh.swordOffer.BTreeNode;
 
 /**
  * 将二叉搜索树转换为一个排序的双向链表

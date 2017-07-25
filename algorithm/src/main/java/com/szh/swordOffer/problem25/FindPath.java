@@ -1,6 +1,7 @@
 package com.szh.swordOffer.problem25;
 
-import com.ryan.offer.node.BTreeNode;
+
+import com.szh.swordOffer.BTreeNode;
 
 import java.util.ArrayList;
 import java.util.Stack;
